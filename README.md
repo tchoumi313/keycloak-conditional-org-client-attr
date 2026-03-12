@@ -33,6 +33,9 @@ Streams user's org memberships, checks:
     ↓
   YES → Allow access          NO → Deny access
 ```
+<img width="852" height="915" alt="image" src="https://github.com/user-attachments/assets/7260790e-090d-4283-9783-7bcf5e8d3faf" />
+
+<img width="637" height="732" alt="image" src="https://github.com/user-attachments/assets/696c55ad-11c4-4b1c-91f6-3113e4c13665" />
 
 ## Requirements
 
