@@ -100,7 +100,7 @@ Tested against Phase Two Docker image with:
 
 I encountered this while building a multi-tenant platform where each OIDC client maps to a tenant, all sharing one realm and one set of IdPs. The existing `ConditionalOrgAttributeValue` got me 90% of the way — I just needed the expected value to come from the client instead of from static config. This is a natural extension of the existing pattern and I expect others in similar setups would benefit.
 
-I also maintain a standalone version of this authenticator at [github.com/YOUR_USERNAME/keycloak-conditional-org-client-attr](https://github.com/YOUR_USERNAME/keycloak-conditional-org-client-attr) for users who prefer a separate JAR.
+I also maintain a standalone version of this authenticator at [github.com/tchoumi313/keycloak-conditional-org-client-attr](https://github.com/tchoumi313/keycloak-conditional-org-client-attr) for users who prefer a separate JAR.
 
 ---
 
